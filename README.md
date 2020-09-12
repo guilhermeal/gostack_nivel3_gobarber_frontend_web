@@ -11,7 +11,7 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Execute this script to install all dependencies.
+Run this script to install all dependencies.
 
 ### `yarn start`
 
