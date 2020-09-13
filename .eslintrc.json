@@ -37,6 +37,8 @@
     "import/prefer-default-export": "off",
     "eslint-disable-next-line": "off",
     "object-curly-newline": "off",
+    "implicit-arrow-linebreak": "off",
+    "arrow-parens": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
